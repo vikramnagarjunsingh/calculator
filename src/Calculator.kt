@@ -9,7 +9,7 @@ abstract class Calculator {
 }
 class addFuntion : Calculator(){
     override fun add(a:Int, b:Int):Int{
-        return extra(a+b+7)
+        return extra(a+b+11)
     }
 }
 fun main() {
